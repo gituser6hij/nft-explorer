@@ -1,8 +1,9 @@
 html,
 body {
-	background-color: rgb(4, 66, 63);
+	background-color: #161616;
 	font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
 		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+		color:rgb(60, 180, 189);
 }
 h1{
 	margin-bottom: 1rem;
@@ -29,4 +30,12 @@ a {
 @media (prefers-color-scheme: dark) {
 	html {
 	}
+}
+
+h3{
+	color: #0057da;
+}
+
+option{
+	background-color: #161616;
 }

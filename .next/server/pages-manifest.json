@@ -1,7 +1,9 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/api/getNftsForCollection": "pages/api/getNftsForCollection.js",
+  "/api/getNftsForOwner": "pages/api/getNftsForOwner.js",
+  "/": "pages/index.html",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/api/getNftsForOwner": "pages/api/getNftsForOwner.js"
+  "/404": "pages/404.html"
 }
