@@ -6,7 +6,7 @@ export default function Navbar() {
 			<a href="http://web3.auditutils.com" target={"_self"}>
 				<img
 					className={styles.alchemy_logo}
-					src="/alchemy_logo.svg"
+					src="http://web3.auditutils.com/user137.PNG"
 				></img>
 			</a>
 			<ConnectButton></ConnectButton>
